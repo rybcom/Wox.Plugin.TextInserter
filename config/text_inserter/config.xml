@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text_list>
+
+	<!-- common -->
+	<item key="mail" value="my-pretty-mail@gmail.com" />
+	<item key="proton" value="my-pretty-mail@proton.me" />
+	<item key="phone" value="{+}41 21 21 34 21 21" />
+
+	<!-- greetings-->
+	<item key="have-a-nice" value="Thank you very much and have a nice day" />
+	
+	<!-- address -->
+	<item key="address 1" value="Whiteway 12, 89 892 Yawetihw" />
+	<item key="address 2" value="RedFox 54, 89 892 Yawetihw" />
+
+	<!-- misc -->
+	<item key="line  _ _ _ _ _ _ _ " value="_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ " />
+	<item key="line _____________ " value="_________________________________________________ " />
+
+</text_list>
