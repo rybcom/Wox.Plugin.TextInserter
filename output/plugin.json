@@ -1,0 +1,12 @@
+{
+    "ID":"DEA0TGFC182C8014823F44AC74F21158",
+    "ActionKeyword":"z",
+    "Name":"Text inserter",
+    "Description":"Insert predefined text",
+    "Author":"rybcom",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"http://www.getwox.com/plugin",
+    "ExecuteFileName":"Wox.Plugin.TextInserter.dll",
+    "IcoPath":"Images\\text.png" 
+}
